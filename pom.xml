@@ -82,8 +82,7 @@
             <artifactId>jstl</artifactId>
             <version>${jstl.version}</version>
         </dependency>
-		
-		
+	
         <dependency>
             <groupId>net.sourceforge.cobertura</groupId>
             <artifactId>cobertura</artifactId>
